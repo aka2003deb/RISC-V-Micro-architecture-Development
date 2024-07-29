@@ -81,7 +81,7 @@ module PipelinedRiscVProcessor (
         .ResultW(ResultW)
     );
 endmodule
-
+//here are the submodules 
 module FetchStage (
     input clk,
     input reset,
